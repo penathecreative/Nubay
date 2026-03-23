@@ -8,8 +8,7 @@ This project demonstrates my ability to build and connect a complete system from
 
 ## 🚀 Live Demo
 
-* 🌐 Frontend: *(add your Vercel link here)*
-* 🔧 Backend API: *(add your backend link if deployed)*
+* 🌐 Frontend: *(https://nubay-teiy.vercel.app/)*
 
 ---
 
