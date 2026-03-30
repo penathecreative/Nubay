@@ -1,8 +1,8 @@
-# 🛍️ Full Stack E-Commerce Application
+# 🛍️ Nubay – Production-Ready E-Commerce Platform
 
 A full-stack e-commerce application designed to simulate a real-world online store, including authentication, product management, order processing, and online payments.
 
-This project demonstrates my ability to build and connect a complete system from frontend to backend, handling real-world challenges such as state management, protected routes, and payment integration.
+This project demonstrates the ability to design, build, and connect a complete system from frontend to backend while handling real-world challenges such as state management, protected routes, and third-party integrations.
 
 ---
 
