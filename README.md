@@ -132,6 +132,20 @@ npm run dev
 
 ---
 
+🖼️ Product Images
+
+To streamline development and focus on core application logic, this project currently uses placeholder images (via Picsum) for product visuals.
+
+This approach allowed prioritizing key features such as authentication, state management, order processing, and payment integration.
+
+📌 Future improvement:
+
+Replace placeholder images with real product assets
+Integrate a media management solution (e.g., Cloudinary)
+Optimize image delivery and performance
+
+---
+
 ## 🧪 What This Project Demonstrates
 
 * Building a full-stack application from scratch
