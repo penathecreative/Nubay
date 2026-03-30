@@ -132,7 +132,7 @@ npm run dev
 
 ---
 
-🖼️ Product Images
+## 🖼️ Product Images
 
 To streamline development and focus on core application logic, this project currently uses placeholder images (via Picsum) for product visuals.
 
